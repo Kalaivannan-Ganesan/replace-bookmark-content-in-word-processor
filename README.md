@@ -8,7 +8,7 @@ This repository provides a working example demonstrating how to programmatically
 
 - **Documentation:**   [Syncfusion® DOCX Editor](https://help.syncfusion.com/document-processing/word/word-processor/asp-net-core/getting-started-core?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
 
-- **Online demo:**   [Syncfusion® DOCX Editor - Demo](https://ej2.syncfusion.com/aspnetcore/documenteditor/default?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
+- **Online demo:**   [Syncfusion® DOCX Editor - Demo](https://document.syncfusion.com/demos/docx-editor/asp-net-core/documenteditor/default?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
 
 # Support and feedback 
 
